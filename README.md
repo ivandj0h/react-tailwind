@@ -17,3 +17,9 @@ Watch CSS & run server on :3000
 
 Build CSS and assets
 ```yarn build```
+
+### ScreenShoot
+
+Here are the Screenshoot of this application
+
+![Dashboard](captured/picture.jpg "This is the captured")
